@@ -5044,6 +5044,13 @@
 		"oAP": "\/build\/_head.html",
 		"oF": 1
 		},
+	"\/source\/_logo-mohole.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/build\/_logo-mohole.html",
+		"oF": 0
+		},
 	"\/source\/_logo.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -5153,9 +5160,19 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/source\/images\/creative-club.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/build\/images\/creative-club.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/source\/images\/drew-graham-fulton-street.jpg": {
 		"ft": 16384,
-		"iS": 1429083,
+		"iS": 1421136,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/images\/drew-graham-fulton-street.jpg",

@@ -5455,7 +5455,7 @@
 		"oAP": "\/build\/videos\/Film-set.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/source\/videos\/Film-set.mp4": {
@@ -5504,7 +5504,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/source\/images\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 547991976
+	"lastBuiltDate": 548002021
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

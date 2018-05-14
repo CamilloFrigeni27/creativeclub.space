@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.gitattributes",
+		"oF": 1
+		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 0,
@@ -765,6 +772,16 @@
 		"oA": 1,
 		"oAP": "\/build\/bower_components\/bootstrap\/assets\/js\/src\/pwa.js",
 		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/assets\/js\/src\/search.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/assets\/js\/src\/search.js",
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
@@ -4995,6 +5012,24 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/build\/README.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/source\/_footer.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -5035,6 +5070,13 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/build\/andrea-experiment.html",
+		"oF": 0
+		},
+	"\/source\/dlsb-theory.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/build\/dlsb-theory.html",
 		"oF": 0
 		},
 	"\/source\/experiment.kit": {
@@ -5399,7 +5441,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/source\/images\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 546191032
+	"lastBuiltDate": 547991976
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
